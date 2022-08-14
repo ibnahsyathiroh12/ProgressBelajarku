@@ -14,16 +14,16 @@ Belajar kelas tentang pemrograman logic. (Progress 100%)
 08 Agustus 2022
 Belajar kelas tentang Git & GitHub. (Progress 45%)
 * Materi 1
-      * Pengantar Git
-      * Mengenal Git secara lebih dalam
-      * Latihan mengeksplorasi proyek
+     * Pengantar Git
+     * Mengenal Git secara lebih dalam
+     * Latihan mengeksplorasi proyek
 * Materi 2
-      * Mengenal perintah dasar Git
-      * Mengenal Git workflow
-      * Mengenal repository
-      * Latihan membuat readme repository
-      * Latihan menambah file baru
-      * Latihan mengubah data dalam berkas menggunkan commit
-      * Latihan membuat release file
+     * Mengenal perintah dasar Git
+     * Mengenal Git workflow
+     * Mengenal repository
+     * Latihan membuat readme repository
+     * Latihan menambah file baru
+     * Latihan mengubah data dalam berkas menggunkan commit
+     * Latihan membuat release file
 * Materi 3
-      * Studi kasus Pengalaman belajar Git
+     * Studi kasus Pengalaman belajar Git
