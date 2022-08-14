@@ -26,4 +26,5 @@ Belajar kelas tentang Git & GitHub. (Progress 45%)
      * Latihan mengubah data dalam berkas menggunkan commit
      * Latihan membuat release file
 * Materi 3
-     * Studi kasus Pengalaman belajar Git
+     * Studi kasus Pengalaman belajar Git.
+     * Latihan latihan membuat readme, commit.
