@@ -1,7 +1,7 @@
 # ProgressBelajarku
 repository ini dibuat untuk memantau proses belajar ku
 
-01 Agustus 2022 <br>
+<b>01 Agustus 2022 </b><br>
 Belajar kelas tentang pemrograman logic. (Progress 100%)
 * apa itu logika pemrograman.
 * perbedaan logika dan algoritma.
@@ -11,7 +11,7 @@ Belajar kelas tentang pemrograman logic. (Progress 100%)
 * computational thinking.
 * studikasus penggunaan logika.
 
-08 Agustus 2022 <br>
+<b>08 Agustus 2022</b> <br>
 Belajar kelas tentang Git & GitHub. (Progress 45%)
 * Materi 1
      * Pengantar Git
