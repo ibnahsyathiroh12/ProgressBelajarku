@@ -2,7 +2,7 @@
 repository ini dibuat untuk memantau proses belajar ku
 
 <b>01 Agustus 2022 </b><br>
-<h2>Belajar kelas tentang pemrograman logic. (Progress 100%)</h2>
+Belajar kelas tentang pemrograman logic. (Progress 100%)
 * apa itu logika pemrograman.
 * perbedaan logika dan algoritma.
 * perbedaan logika induktif dan deduktif.
@@ -12,7 +12,7 @@ repository ini dibuat untuk memantau proses belajar ku
 * studikasus penggunaan logika.
 
 <b>08 Agustus 2022</b> <br>
-<h2>Belajar kelas tentang Git & GitHub. (Progress 45%)</h2>
+Belajar kelas tentang Git & GitHub. (Progress 45%)
 * Materi 1
      * Pengantar Git
      * Mengenal Git secara lebih dalam
